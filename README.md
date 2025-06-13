@@ -6,7 +6,7 @@
 <ul>
 <li>I'm currently reside in Sai Gon, Viet Nam.</li>
 <li>An undergraduate student (Freshman)</li>
-<li>If you want to reach to me, you can contact me at <a href="mailto:104240764@student.vgu.edu.vn">104240764@student.vgu.edu.vn</a>.</li>
+<li>If you want to reach to me, you can reach me at <a href="mailto:104240764@student.vgu.edu.vn">104240764@student.vgu.edu.vn</a>.</li>
 <li>As of rightnow, I'm learning backend,solving Leetcodes and how to do groupwork!</li>
 </ul>
 
