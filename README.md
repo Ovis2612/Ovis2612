@@ -31,10 +31,10 @@
 
 <div id="stats">
   <a href="#">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ovis2612&count_private=true&show_icons=true&theme=radical" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ovis2612&count_private=true&show_icons=true&theme=prussian" />
   </a>
 
 <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ovis2612&layout=compact&theme=vision-friendly-dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ovis2612&layout=compact&theme=prussian" />
   </a>
 </div>
