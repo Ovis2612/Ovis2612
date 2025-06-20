@@ -30,6 +30,7 @@
   </a>
 </p>
 
+<h2>Stats</h2>
 <div id="stats">
   <a href="#">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ovis2612&count_private=true&show_icons=true&theme=prussian&locale=de&bg_color=00000000" alt="GitHub stats card" />
