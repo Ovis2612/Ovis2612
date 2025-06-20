@@ -2,12 +2,13 @@
   <img width=180 src="https://avatars.githubusercontent.com/Ovis2612"/>
 </div>
 <h2>About Me</h2>
-<p>Hi, I'm Nguyen Dang Chi Hung (also known as Henry), I've always have a love for programming ever since i was in middle school. But due to the heavy workload on school at that time, I wasn't really able to fully focus on improving my programming skills. But hopefully that will change since right now, I can fully focus on my skills. I also have a burning passion for cyber security field(especially web-pentest)</p>
+<p>Hi, I'm Nguyen Dang Chi Hung (also known as Henry), I've always have a love for programming ever since i was in middle school. But due to the heavy workload on school at that time, I wasn't really able to fully focus on improving my programming skills. But hopefully that will change since right now, I can fully focus on my skills. I also have a burning passion for cyber security field(especially web-pentest).</p>
 <ul>
 <li>I'm currently reside in Sai Gon, Viet Nam.</li>
-<li>An undergraduate student (Freshman)</li>
+<li>An undergraduate student (Freshman).</li>
 <li>If you want to reach to me, you can reach me at <a href="mailto:104240764@student.vgu.edu.vn">104240764@student.vgu.edu.vn</a>.</li>
-<li>As of rightnow, I'm learning backend,solving Leetcodes and how to do groupwork!</li>
+<li>As of right now, I'm learning backend,solving Leetcodes and how to do groupwork!</li>
+<li>I can speak three languages with varying fluency: Vi(Native), En(C2), De(B1).</li>
 </ul>
 
 <a href="https://www.facebook.com/henry.nguyen.39468">
@@ -31,10 +32,10 @@
 
 <div id="stats">
   <a href="#">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ovis2612&count_private=true&show_icons=true&theme=prussian&locale=de&bg_color=00000000" alt="GitHub stats card" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ovis2612&count_private=true&show_icons=true&theme=prussian&locale=de&bg_color=00000000" alt="GitHub stats card" />
   </a>
 
 <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ovis2612&layout=compact&theme=prussian&locale=de&bg_color=00000000" alt="Top languages chart" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ovis2612&layout=compact&theme=prussian&locale=de&bg_color=00000000" alt="Top languages chart" />
   </a>
 </div>
