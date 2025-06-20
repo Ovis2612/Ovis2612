@@ -31,10 +31,10 @@
 
 <div id="stats">
   <a href="#">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ovis2612&count_private=true&show_icons=true&theme=prussian" alt="GitHub stats card" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ovis2612&count_private=true&show_icons=true&theme=prussian&locale=de&theme=transparent" alt="GitHub stats card" />
   </a>
 
 <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ovis2612&layout=compact&theme=prussian" alt="Top languages chart" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ovis2612&layout=compact&theme=prussianlocale=de&theme=transparent" alt="Top languages chart" />
   </a>
 </div>
