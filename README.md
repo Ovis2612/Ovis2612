@@ -31,7 +31,7 @@
 
 <div id="stats">
   <a href="#">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ovis2612&count_private=true&show_icons=true&theme=prussian" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ovis2612&count_private=true&show_icons=true&theme=prussian" alt="GitHub stats card" />
   </a>
 
 <a href="#">
