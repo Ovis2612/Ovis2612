@@ -36,6 +36,6 @@
   </a>
 
 <a href="#">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ovis2612&layout=compact&theme=prussian&locale=de&bg_color=00000000" alt="Top languages chart" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ovis2612&layout=donut&theme=prussian&locale=de&bg_color=00000000" alt="Top languages chart" />
   </a>
 </div>
