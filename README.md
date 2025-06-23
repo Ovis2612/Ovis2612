@@ -6,8 +6,8 @@
 <ul>
 <li>I'm currently reside in Sai Gon, Viet Nam.</li>
 <li>An undergraduate student (Freshman).</li>
-<li>If you want to reach to me, you can reach me at <a href="mailto:104240764@student.vgu.edu.vn">104240764@student.vgu.edu.vn</a>.</li>
-<li>As of right now, I'm learning backend,solving Leetcodes and how to do groupwork!</li>
+<li>If you want to get in touch with me, you can reach me at <a href="mailto:104240764@student.vgu.edu.vn">104240764@student.vgu.edu.vn</a>.</li>
+<li>As of right now, I'm learning backend, solving Leetcodes, learn all the frameworks and how to do groupwork!</li>
 <li>I can speak three languages with varying fluency: Vi(Native), En(C2), De(B1).</li>
 </ul>
 
