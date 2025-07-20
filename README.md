@@ -46,10 +46,8 @@
 <h2>Stats</h2>
 <div id="stats">
   <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ovis2612&count_private=true&show_icons=true&theme=prussian&locale=de&bg_color=00000000" alt="GitHub stats card" />
-  </a>
-
+    <img src="https://github-readme-stats.vercel.app/api?username=Ovis2612&count_private=true&include_all_commits=true&show_icons=true&theme=prussian&locale=de&bg_color=#1c1e26&" alt="GitHub stats card" /></a>
+  
 <a href="#">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ovis2612&layout=donut&theme=prussian&locale=de&bg_color=00000000" alt="Top languages chart" />
-  </a>
-</div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ovis2612&layout=donut&theme=prussian&locale=de&bg_color=#1c1e26" alt="Top languages chart" /></a>
+    </div>
