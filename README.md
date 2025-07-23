@@ -11,6 +11,7 @@
 <li>I can speak three languages with varying fluency: Vi(Native), En(C2), De(B1).</li>
 </ul>
 
+<h2>Contacts</h2>
 <a href="https://www.facebook.com/henry.nguyen.39468">
   <img src="https://img.shields.io/badge/Henry_Nguyen-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
 </a>
